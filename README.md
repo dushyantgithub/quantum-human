@@ -196,6 +196,3 @@ ultra-human-ui/
 - Modular design for UI, STT, TTS, LLM
 - Whisper.cpp + TTS server mode are optional for performance
 
----
-
-Let’s get building! 🧪
